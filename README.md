@@ -4,12 +4,14 @@ This is a project for CDK development with TypeScript.
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 **Prerequisites**: 
+
 AWS CLI installed and configured.
 AWS CDK installed.
 Node.js 
 TypeScript.
 
 ****Install following commands**:
+
 #npm install -g aws-cdk
 
 #aws configure (With Access & secrete Code)
